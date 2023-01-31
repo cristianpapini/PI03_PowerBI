@@ -24,4 +24,3 @@ Los MOOCs (cursos masivos abiertos y online, por sus siglas en inglés) han revo
   Durante el procesamiento, a los mismos se les quitaron columnas que no suman valor agregado al entendimiento del negocio, se eliminaron columnas duplicadas y vacías
   Para más detalles acerca de cómo fueron estas etapas paso por paso dirigirse al NoteBook que se encuentra en los archivos.
 Finalmente, una vez que todos los datasets fueron procesados, se llevan los mismos a Power BI para poder hacer Dashboard informativo-comparativo. Este último es una excelente herramienta usada para analizar y mostrar el proceso de negocio a través de gráficos, tablas y KPIs.
-  La creación de Dashboard para la presentación de 
